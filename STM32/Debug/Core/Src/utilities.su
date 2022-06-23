@@ -1,0 +1,7 @@
+utilities.c:3:6:bufferReset	16	static
+utilities.c:13:6:bufferShift	16	static
+utilities.c:24:6:startSampling	8	static
+utilities.c:49:6:stopSampling	8	static
+utilities.c:59:6:changeTrigger	40	static
+utilities.c:73:6:changeSamplingPeriod	24	static
+utilities.c:81:6:samplesTransmission	24	static

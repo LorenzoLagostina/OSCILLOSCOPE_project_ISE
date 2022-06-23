@@ -1,0 +1,4 @@
+commandManagement.c:3:6:resetCommand	24	static
+commandManagement.c:14:6:analyzeCommand	16	static
+commandManagement.c:42:10:obtainCommandValue	24	static
+commandManagement.c:54:9:hexToInt	16	static
